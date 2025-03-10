@@ -6,11 +6,11 @@
 
 ## Состав группы
 
-Аржанцева Катя (github: abracadabra) 
+Аржанцева Катя (github: Arzhantseva58) 
 
-Сафонова Арина (github: example)
+Сафонова Арина (github: ArinaSafonova)
 
-Столяров Егор (github: example)
+Столяров Егор (github: )
 
 ## Идея компании
 
