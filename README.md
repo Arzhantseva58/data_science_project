@@ -7,7 +7,9 @@
 ## Состав группы
 
 Аржанцева Катя (github: abracadabra) 
+
 Сафонова Арина (github: example)
+
 Столяров Егор (github: example)
 
 ## Идея компании
