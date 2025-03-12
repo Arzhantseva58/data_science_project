@@ -1,6 +1,6 @@
 # Идея компании
 
-Arabianaito
+Arabian'naito
 
 ## Состав группы
 
